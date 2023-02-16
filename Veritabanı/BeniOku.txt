@@ -1,0 +1,2 @@
+Hocam hem script hem bacpac dosyası attım veritabanını daha sorunsuz bir şekilde eklemeniz için iki farklı import dosyası paylaştım
+isterseniz import edin bacpac dosyasını,isterseniz script dosyası ile execute işlemi yapabilirsiniz.
